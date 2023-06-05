@@ -1,0 +1,15 @@
+.about-us-main{
+    padding: 20px;
+}
+p{
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 300;
+}
+hr{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.contact-page__links{
+    margin-top: 20px;
+}

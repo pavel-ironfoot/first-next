@@ -1,0 +1,14 @@
+.container{
+    padding: 20px;
+}
+.container p{
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 300;
+}
+.container h1{
+    margin-top: 20px;
+    font-size: 21px;
+    font-weight: 600;
+    text-transform: uppercase;
+}

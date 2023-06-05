@@ -1,0 +1,9 @@
+.blog-main{
+    padding: 20px;
+}
+ul li{
+    list-style-type: none;
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 300;
+}

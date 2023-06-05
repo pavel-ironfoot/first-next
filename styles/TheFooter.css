@@ -1,0 +1,12 @@
+.footer-container{
+    height: 100px;
+    background-color: rgb(78, 75, 75);
+    padding: 20px;
+}
+.footer-container p{
+    margin-top: 40px;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
